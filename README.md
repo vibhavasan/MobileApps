@@ -1,8 +1,11 @@
-# MobileApps
-To run this react native web app that is connected to a FireBase you must first
+# rnFirebaseAuth
+In this React Native tutorial, we are going to learn how to create Login and User Registration functionalities using Firebase Authentication services.
 
-Have a firebase account and input your firebase api key into the database -> firebase.js file where it says api key
-run git clone https://github.com/vibhavasan/MobileApps.git
-cd MobileApps
-run npm install
-run npm start
+[React Native Firebase – Login and User Registration Tutorial](https://www.positronx.io/react-native-firebase-login-and-user-registration-tutorial/)
+
+
+## Start the React Native Firebase Authentication App
+* `git clone https://github.com/SinghDigamber/rnFirebaseAuth.git`
+* `cd rnFirebaseAuth`
+* `npm install`
+* Enter your Firebase credentials in database > firebase.js
