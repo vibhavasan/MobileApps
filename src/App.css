@@ -1,0 +1,86 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+
+.white {
+  color: white;
+}
+
+.spaceTop {
+  margin-top: 25px;
+}
+
+.stuff {
+  background-color: #1f1f1f;
+  align-items: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-header {
+  background-color: #14D2C8;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+
+
+
+
+
+
+
+.App-link {
+  color: #61dafb;
+}
+
+h1 {
+  font-size: 300%;
+}
+
+
+
+.rightmost {
+  float: right;
+}
+
+.userButton {
+  font-size: 60px;
+  width: 16em;
+  height: 3em;
+  color: white;
+  background-color: blue;
+  border-top-left-radius: 60px;
+  border-bottom-left-radius: 60px;
+  border-top-right-radius: 60px;
+  border-bottom-right-radius: 60px;
+  margin: 2%;
+  outline: none;
+}
+
+.loginButton {
+  font-size: 60px;
+  width: 16em;
+  height: 3em;
+  color: white;
+  background-color: pink;
+  border-top-left-radius: 60px;
+  border-bottom-left-radius: 60px;
+  border-top-right-radius: 60px;
+  border-bottom-right-radius: 60px;
+  margin: 2%;
+  outline: none;
+}
+
+
