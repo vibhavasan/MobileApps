@@ -24,7 +24,7 @@
 }
 
 .App-header {
-  background-color: #14D2C8;
+  background-color: #081414;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -47,6 +47,7 @@
 
 h1 {
   font-size: 300%;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 
@@ -56,29 +57,29 @@ h1 {
 }
 
 .userButton {
-  font-size: 60px;
+  font-size: 30px;
   width: 16em;
   height: 3em;
   color: white;
   background-color: blue;
-  border-top-left-radius: 60px;
-  border-bottom-left-radius: 60px;
-  border-top-right-radius: 60px;
-  border-bottom-right-radius: 60px;
+  border-top-left-radius: 40px;
+  border-bottom-left-radius: 40px;
+  border-top-right-radius: 40px;
+  border-bottom-right-radius: 40px;
   margin: 2%;
   outline: none;
 }
 
 .loginButton {
-  font-size: 60px;
+  font-size: 30px;
   width: 16em;
   height: 3em;
   color: white;
   background-color: pink;
-  border-top-left-radius: 60px;
-  border-bottom-left-radius: 60px;
-  border-top-right-radius: 60px;
-  border-bottom-right-radius: 60px;
+  border-top-left-radius: 40px;
+  border-bottom-left-radius: 40px;
+  border-top-right-radius: 40px;
+  border-bottom-right-radius: 40px;
   margin: 2%;
   outline: none;
 }
